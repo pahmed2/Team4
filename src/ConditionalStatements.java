@@ -20,6 +20,7 @@ public class ConditionalStatements {
 		// example
 		int number1 = 6;
 		int number2 = 5;
+		int num4 =165334;
 
 		// = means to assign
 		// == means to check for equality
